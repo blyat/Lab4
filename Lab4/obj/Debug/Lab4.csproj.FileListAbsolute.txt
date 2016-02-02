@@ -1,0 +1,9 @@
+c:\users\programacion\documents\visual studio 2013\Projects\Lab4\Lab4\bin\Debug\Lab4.exe.config
+c:\users\programacion\documents\visual studio 2013\Projects\Lab4\Lab4\bin\Debug\Lab4.exe
+c:\users\programacion\documents\visual studio 2013\Projects\Lab4\Lab4\bin\Debug\Lab4.pdb
+c:\users\programacion\documents\visual studio 2013\Projects\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+c:\users\programacion\documents\visual studio 2013\Projects\Lab4\Lab4\obj\Debug\Lab4.Form1.resources
+c:\users\programacion\documents\visual studio 2013\Projects\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+c:\users\programacion\documents\visual studio 2013\Projects\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+c:\users\programacion\documents\visual studio 2013\Projects\Lab4\Lab4\obj\Debug\Lab4.exe
+c:\users\programacion\documents\visual studio 2013\Projects\Lab4\Lab4\obj\Debug\Lab4.pdb
